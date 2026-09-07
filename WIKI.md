@@ -6,3 +6,5 @@ WIKI contendo itens da entrega pedidos na atividade de prática POO na IDE Alice
 
 
 # 2) Planejamento de Implementação
+![Texto alternativo da imagem](imagem_2026-09-07_123605859.png)
+
