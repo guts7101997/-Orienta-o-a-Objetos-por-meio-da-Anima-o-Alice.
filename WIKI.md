@@ -3,3 +3,6 @@ WIKI contendo itens da entrega pedidos na atividade de prática POO na IDE Alice
 
 # 1) Storyboard
 ![Texto alternativo da imagem](whatsapp-image.jpeg)
+
+
+# 2) Planejamento de Implementação
